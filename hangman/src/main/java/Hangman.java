@@ -1,3 +1,3 @@
-public class Hangman{
+public class Hangman {
   
 }

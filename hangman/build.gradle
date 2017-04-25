@@ -3,7 +3,7 @@ apply plugin: 'application'
 
 archivesBaseName = "hangman"
 version = '1.0'
-mainClassName = "hangman"
+mainClassName = "Hangman"
 
 repositories {
   mavenCentral()
